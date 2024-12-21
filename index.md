@@ -1,8 +1,6 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Ce site a vocation à être une "boite à outils", qui m'accompagnera durant toute ma formation d'hydraulicien, et qui, je l'espère, en aidera d'autres par la suite. 
